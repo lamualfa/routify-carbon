@@ -5,7 +5,7 @@ Use IBM Carbon Framework in Routify. What is Carbon? see [IBM Carbon](https://ww
 ## Installation
 
 ```bash
-npx degit lamualfa/routify-carbon project-name
+npx degit lamualfa/routify-carbon#main project-name
 cd project-name
 yarn && yarn dev
 ```
