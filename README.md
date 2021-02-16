@@ -1,4 +1,4 @@
-# routify-twind
+# routify-carbon
 
 Use IBM Carbon Framework in Routify. What is Carbon? see [IBM Carbon](https://www.carbondesignsystem.com/) for more informations.
 
