@@ -4,18 +4,29 @@ Use IBM Carbon Framework in Routify. What is Carbon? see [IBM Carbon](https://ww
 
 ## Installation
 
+Required Node JS `v12.19.0` or above.
+
+### Download Template
+
 ```bash
 npx degit lamualfa/routify-carbon#main project-name
 cd project-name
+```
+
+### Run
+
+```bash
 yarn && yarn dev
+# OR
+npm i && npm run dev
 ```
 
 <hr>
 
 ## Environment
 
-- Routify - `v2.8.5`
-- Svelte Carbon - `v0.27.0`
+- Routify - `v2.12.4`
+- Svelte Carbon - `v0.28.0`
 - Svelte Carbon Icons - `v10.23.0`
 
 <hr>
