@@ -1,8 +1,8 @@
 devDependencies:
   '@rollup/plugin-commonjs': 15.1.0_rollup@2.39.0
   '@rollup/plugin-node-resolve': 10.0.0_rollup@2.39.0
-  '@roxi/routify': 2.12.4
-  carbon-components-svelte: 0.27.0
+  '@roxi/routify': 2.12.5
+  carbon-components-svelte: 0.29.0
   carbon-icons-svelte: 10.23.0
   cross-env: 7.0.3
   fs-extra: 9.1.0
@@ -1071,7 +1071,7 @@ packages:
       rollup: ^1.20.0||^2.0.0
     resolution:
       integrity: sha512-GksZ6pr6TpIjHm8h9lSQ8pi8BE9VeubNT0OMJ3B5uZJ8pz73NPiqOtCog/x2/QzM1ENChPKxMDhiQuRHsqc+lg==
-  /@roxi/routify/2.12.4:
+  /@roxi/routify/2.12.5:
     dependencies:
       '@roxi/ssr': 0.2.1
       '@types/node': 12.20.1
@@ -1087,7 +1087,7 @@ packages:
     dev: true
     hasBin: true
     resolution:
-      integrity: sha512-2qmCbkhjOMPvQdwWjovs9oSZWyBzZrO2e7787Zkp32SsHvFYx2pdANUxkebS6cyDMgCKXc85USnZjvGNr304nQ==
+      integrity: sha512-N+Bx+QwtS3ZQuGKLeXZ9G1XrBsx8FODjnCKgvblijDnn/YkWCb+uyKiRKPx4MWn30RWWbdSWlvKvgDxakqkBsA==
   /@roxi/ssr/0.2.1:
     dependencies:
       bufferutil: 4.0.3
@@ -1408,13 +1408,13 @@ packages:
     dev: true
     resolution:
       integrity: sha512-w7/EP1JRZ9552CyrThUnay2RkZ1DXxKe/Q2swTC4+LElLh9RRYrL1Z+27LlakB8kzY0fSmHw9mc7XYDUKAKWMA==
-  /carbon-components-svelte/0.27.0:
+  /carbon-components-svelte/0.29.0:
     dependencies:
       carbon-icons-svelte: 10.23.0
       flatpickr: 4.6.9
     dev: true
     resolution:
-      integrity: sha512-v3ZzWnxVQ8W/yLrE7at8xFV7PYZ080lG5PXVyAgNHYIyTBFFZr6Mf3rJUMpS10JouujBdi4Jka8ahLDOrYJ2dA==
+      integrity: sha512-I3tC6L4dvsTxSv6FTwFxy8mYCBVftPmVBfXEhYqQycnYxY5/k2pqb66LGUuWrthXjQ98MyMj4GlSmXby5lfTdw==
   /carbon-icons-svelte/10.23.0:
     dev: true
     resolution:
@@ -4350,8 +4350,8 @@ packages:
 specifiers:
   '@rollup/plugin-commonjs': ^15.0.0
   '@rollup/plugin-node-resolve': ^10.0.0
-  '@roxi/routify': ^2.8.5
-  carbon-components-svelte: ^0.27.0
+  '@roxi/routify': ^2.12.5
+  carbon-components-svelte: ^0.29.0
   carbon-icons-svelte: ^10.23.0
   cross-env: ^7.0.2
   fs-extra: ^9.0.1

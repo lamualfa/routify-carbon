@@ -25,8 +25,8 @@ npm i && npm run dev
 
 ## Environment
 
-- Routify - `v2.12.4`
-- Svelte Carbon - `v0.28.0`
+- Routify - `v2.12.5`
+- Svelte Carbon - `v0.29.0`
 - Svelte Carbon Icons - `v10.23.0`
 
 <hr>
@@ -39,6 +39,7 @@ See [routify-carbon.vercel.app](https://routify-carbon.vercel.app/).
 
 ## Related
 
+- [routify-ts](https://github.com/lamualfa/routify-ts) - Use Typescript in Routify Project.
 - [routify-tailwind](https://github.com/lamualfa/routify-tailwind) - Use Tailwind CSS in Routify.
 - [routify-twind](https://github.com/lamualfa/routify-twind) - Use Twind (_Tailwind CSS in JS version_) in Routify.
-- [routify-ts](https://github.com/lamualfa/routify-ts) - Use Typescript in Routify Project.
+- [routify-windi](https://github.com/lamualfa/routify-windi) - Use Windi CSS (_Next generation of Tailwind CSS compiler_) in Routify.
