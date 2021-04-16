@@ -43,3 +43,4 @@ See [routify-carbon.vercel.app](https://routify-carbon.vercel.app/).
 - [routify-tailwind](https://github.com/lamualfa/routify-tailwind) - Use Tailwind CSS in Routify.
 - [routify-twind](https://github.com/lamualfa/routify-twind) - Use Twind (_Tailwind CSS in JS version_) in Routify.
 - [routify-windi](https://github.com/lamualfa/routify-windi) - Use Windi CSS (_Next generation of Tailwind CSS compiler_) in Routify.
+- [routify-vite](https://github.com/lamualfa/routify-vite) Use Vite (_Next Generation Frontend Tooling_) in Routify.
