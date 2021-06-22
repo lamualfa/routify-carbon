@@ -1,12 +1,11 @@
 <script>
-  import { metatags, page } from "@roxi/routify";
   import { Content, Grid } from "carbon-components-svelte";
-  import Navigation from "./_navigation.svelte";
+  import TopNav from "../components/TopNav.svelte";
   import Theme from "../components/Theme.svelte";
 </script>
 
 <Theme persist theme="g10">
-  <Navigation />
+  <TopNav />
   <Content style="background: none; padding: 1rem">
     <Grid>
       <slot />

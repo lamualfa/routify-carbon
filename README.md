@@ -1,6 +1,6 @@
 # routify-carbon
 
-Use IBM Carbon Framework in Routify. What is Carbon? see [IBM Carbon](https://www.carbondesignsystem.com/) for more informations.
+Use IBM Carbon Framework in Routify with Vite. What is Carbon? see [IBM Carbon](https://www.carbondesignsystem.com/) for more informations.
 
 ## Installation
 
@@ -20,14 +20,6 @@ yarn && yarn dev
 # OR
 npm i && npm run dev
 ```
-
-<hr>
-
-## Environment
-
-- Routify - `v2.12.5`
-- Svelte Carbon - `v0.29.0`
-- Svelte Carbon Icons - `v10.23.0`
 
 <hr>
 

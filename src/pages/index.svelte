@@ -18,7 +18,7 @@
 </script>
 
 <Row>
-  <Column lg="{16}">
+  <Column lg={16}>
     <Breadcrumb noTrailingSlash aria-label="Page navigation">
       <BreadcrumbItem href="/">Getting started</BreadcrumbItem>
     </Breadcrumb>
@@ -36,10 +36,10 @@
         <Grid as fullWidth let:props>
           <TabContent {...props}>
             <Row>
-              <Column md="{4}" lg="{7}">
+              <Column md={4} lg={7}>
                 <Select
                   labelText="Carbon theme"
-                  bind:selected="{$carbon_theme}"
+                  bind:selected={$carbon_theme}
                   style="margin-bottom: 1rem"
                 >
                   <SelectItem value="white" text="White" />
@@ -59,7 +59,7 @@
           </TabContent>
           <TabContent {...props}>
             <Row>
-              <Column md="{4}" lg="{7}">
+              <Column md={4} lg={7}>
                 <p>
                   Rapidly build beautiful and accessible experiences. The Carbon
                   kit contains all resources you need to get started.
@@ -69,7 +69,7 @@
           </TabContent>
           <TabContent {...props}>
             <Row>
-              <Column md="{4}" lg="{7}">
+              <Column md={4} lg={7}>
                 <p>
                   Carbon provides styles and components in Vanilla, React,
                   Angular, Vue and Svelte for anyone building on the web.
